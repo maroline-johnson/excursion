@@ -1,38 +1,38 @@
 body {
     background-color: black;
-    text-align: center
+    text-align: center;
 }
 
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
-    color: white
+    color: white;
 }
 
 h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 300;
     font-size: 42px;
-    color: white
+    color: white;
 }
 
 h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
-    color: grey
+    color: grey;
 }
 
 h4 {
     font-size: 16px;
-    color: aquamarine
+    color: aquamarine;
 }
 
 a {
-    color: aquamarine
+    color: aquamarine;
 }
 
 footer {
     text-align: right;
-    color: grey
+    color: grey;
 }
